@@ -1,6 +1,6 @@
 # Otakudesu Mobile
 
-This project is my side project for fun.
+This is my side project for fun.
 
 ## Stack
 
