@@ -1,9 +1,9 @@
-import { View, Text } from "react-native";
+import { View, Text, ScrollView } from "react-native";
 
 export default function Genrescreen() {
   return (
-    <View style={{ flex: 1, alignItems: "center", justifyContent: "center" }}>
+    <ScrollView>
       <Text>Genres Screen</Text>
-    </View>
+    </ScrollView>
   );
 }
