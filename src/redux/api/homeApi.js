@@ -1,3 +1,3 @@
 import { baseApi } from "../axios-base-query";
 
-export const homeApi = baseApi
+export const homeApi = baseApi.enhanceEndpoints({}).injectEndpoints({});
