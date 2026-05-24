@@ -20,7 +20,7 @@
     "@reduxjs/toolkit": "^2.1.0",
     "@types/react": "^18.2.47",
     "axios": "^1.15.2",
-    "expo": "~54.0.12",
+    "expo": "~56.0.4",
     "expo-constants": "~55.0.16",
     "expo-font": "~11.4.0",
     "expo-image-picker": "~14.3.2",
