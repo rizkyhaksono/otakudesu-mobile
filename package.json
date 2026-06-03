@@ -19,7 +19,7 @@
     "@react-navigation/stack": "^6.3.21",
     "@reduxjs/toolkit": "^2.1.0",
     "@types/react": "^18.2.47",
-    "axios": "^1.15.2",
+    "axios": "^1.16.0",
     "expo": "~56.0.4",
     "expo-constants": "~55.0.16",
     "expo-font": "~11.4.0",
